@@ -1,0 +1,26 @@
+[
+    {   
+        "title": "The Seven Military Classics Of Ancient China",
+        "price": 3100,
+        "thumbnail": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4650/9780465003044.jpg",
+        "id": 1
+    },
+    {   
+        "title": "Mastering the Art of War",
+        "price": 2651,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/5194umDs1yL._SX329_BO1,204,203,200_.jpg",
+        "id": 2
+    },
+    {
+        "title": "Sun Pin: Military Methods",
+        "price": 6400,
+        "thumbnail": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/8133/9780813388885.jpg",
+        "id": 3
+    },
+    {
+        "title": "The Hobbit",
+        "price": 7300,
+        "thumbnail": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/8133/9780813388885.jpg",
+        "id": 4
+    }
+]
